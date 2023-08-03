@@ -69,8 +69,7 @@ ELEC3120    3   Computer Communication Networks
 MATH3033    4   Real Analysis  
 MATH3121    3   Abstract Algebra  
 MATH4432    3   Statistical Machine Learning  
-UROP2100    1   Undergraduate Research 
-Opportunities Series  
+UROP2100    1   Undergraduate Research Opportunities Series 2   
 ```
 ### Spring at EPFL
 ```angular2html
