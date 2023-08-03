@@ -35,8 +35,7 @@ MATH2352    4   Differential Equations
 ## UG Year 2
 ### Fall
 ```angular2html
-COMP2012    4   Object-Oriented Programming and 
-Data Structures  
+COMP2012    4   Object-Oriented Programming and Data Structures  
 COMP2611    4   Computer Organization  
 COMP3711    3   Design and Analysis of Algorithms  
 MATH2121    4   Linear Algebra  
