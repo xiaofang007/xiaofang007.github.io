@@ -81,8 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "FANG Xiao"
-  image            : http://placehold.it/300x600
-  image_alt        : "avatar_bio.jpg"
+  avatar           : "avatar_bio.jpg"
   bio              : "Final Year UG Student @HKUST majoring in CS and MATH"
   location         : "Hong Kong SAR, China"
   employer         :
