@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "FANG Xiao"
-  avatar           : "avatar_bio.jpg"
+  image            : "avatar_bio.jpg"
   bio              : "Final Year UG Student @HKUST majoring in CS and MATH"
   location         : "Hong Kong SAR, China"
   employer         :
