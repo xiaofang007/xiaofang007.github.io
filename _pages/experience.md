@@ -6,7 +6,7 @@ redirect_from:
   - /experience
 ---
 
-# Research Experience
+# Research
 
 ### **Boosting Convolution with Efficient MLP-Permutation for Volumetric Medical Image Segmentation**
 *Research Intern in HKUST* <br>
@@ -32,7 +32,7 @@ Submitted to European Journal of Radiology
 * Outperformed UNet, ResUNet, and UNETR by 1.8%, 5.4%, and 7.9% in terms of Dice score.
 * Wrote the technical section of the joint research paper.
 
-# INTERNSHIPS
+# Internship
 ### **Data asset management consultancy for Mindray data platform**
 *Digital Consultant* <br>
 Jul. 2023 - Sep. 2023 | Deloitte Consulting (Guangzhou) Limited
