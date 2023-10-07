@@ -1,4 +1,5 @@
 ---
+layout: main_page
 permalink: /
 title: "FANG Xiao 方筱"
 excerpt: "About me"
