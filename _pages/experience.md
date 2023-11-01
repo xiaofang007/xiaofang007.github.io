@@ -14,7 +14,7 @@ Sep. 2022 - Current | Advisor: [Prof. Hao CHEN](https://cse.hkust.edu.hk/~jhc/) 
 Submitted to AAAI2024 [paper](https://arxiv.org/abs/2303.13111)
 *	Analyzed the current limitations of volumetric image segmentation: 1) thick slice scanning  2) computationally expensive 
 *	Proposed a **P**ermutable **H**ybrid **Net**work (PHNet) that fuses 2D CNN, 3D CNN, and MLP to enhance the efficiency and efficacy of segmentation by utilizing CNN to learn local features while replacing the heavy self-attention mechanism in Transformers with dimension permutations of feature maps so that voxels within the same axis across all channels are grouped to train using MLP to capture long-range dependencies.
-* Validated on four public datasets. Notably, PHNet surpassed the winner of [COVID-19-20 challenge](https://covid-segmentation.grand-challenge.org/evaluation/post-challenge-phase/leaderboard/).
+* Validated on four public datasets and compared with state-of-the-art CNN-based, Transformer-based, and MLP-based methods in all datasets. Notably, PHNet surpassed the winner of [COVID-19-20 challenge](https://covid-segmentation.grand-challenge.org/evaluation/post-challenge-phase/leaderboard/).
 
 ### **Improve Medical Image Segmentation models with boundary detection operators**
 *Research Intern in HKUST* <br>
@@ -29,7 +29,7 @@ Mar. 2022 - Oct. 2022 | Advisor: [Prof. Hao CHEN](https://cse.hkust.edu.hk/~jhc/
 Submitted to European Journal of Radiology
 * Collaborated with MD students from The Southern Medical University to finish data cleaning, including examining the labeling of patients and sifting samples with varying degrees of fat deposits to create the dataset.
 * Proposed a novel 2.5D-AttentionUnet for segmentation that features a UNet-like encoder-decoder structure,CNN-based attention modules, and a mixed pooling module in the bottleneck layer.
-* Outperformed UNet, ResUNet, and UNETR by 1.8%, 5.4%, and 7.9% in terms of Dice score.
+* Compared with state-of-the-art methods like UNet, ResUNet, and UNETR.
 * Wrote the technical section of the joint research paper.
 
 # Internship

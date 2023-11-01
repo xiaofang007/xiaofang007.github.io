@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-The latest version of CV will be published soon.
+The latest version of CV will be posted soon.
