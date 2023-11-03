@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 ## About me
-I am a final year undergraduate student doing a double major in Computer Science and Mathematics at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST). I am fortunate to work with [Prof. Hao CHEN](https://cse.hkust.edu.hk/~jhc/) on deep learning in medical image analysis.  
+I am a final year undergraduate student doing a double major in Computer Science and Mathematics at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST). I am fortunate to be supervised by [Prof. Hao CHEN](https://cse.hkust.edu.hk/~jhc/) on deep learning in medical image analysis.  
 
 My research interests lie in the field of medical image segmentation. My goal is to develop an efficient and effective model for medical image segmentation theoretically and empirically. Currently, I am also exploring prompt tuning on Vision Language Models for downstream applications.
 
