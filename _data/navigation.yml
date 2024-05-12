@@ -3,9 +3,6 @@ main:
   - title: "Main Page"
     url: /about/
 
-  - title: "UG Courses"
-    url: /courses/    
-
   - title: "Professional Experience"
     url: /experience/    
     
