@@ -25,6 +25,8 @@ Computer Vision, Medical Image Analysis, Vision Language Model
 
 ## Awards
 - University’s Scholarship Scheme for Continuing Undergraduate Students (Top 2%) in `2021-2022`, `2022-2023`
+<div style="display:none">
 - HKSAR Government Scholarship Fund - Reaching Out Award in `2022-2023`
+</div>
 - Lee Hysan Foundation Exchange Scholarships in `2022-2023`
 - Dean's List for the School of Engineering for all 5 semesters
