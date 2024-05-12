@@ -15,7 +15,7 @@ My research interests lie in the field of medical image segmentation. My goal is
 
 <div style='display: none'>
 Currently, I am also exploring prompt tuning on Vision Language Models for downstream applications.
-<div>
+</div>
 
 ## Research Interest
 Computer Vision, Medical Image Analysis
