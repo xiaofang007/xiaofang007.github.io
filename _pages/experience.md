@@ -8,7 +8,7 @@ redirect_from:
 
 # Research
 
-<div style="display:none">
+
 ### **Boosting Convolution with Efficient MLP-Permutation for Volumetric Medical Image Segmentation**
 *Research Intern in HKUST* <br>
 Sep. 2022 - Current | Advisor: [Prof. Hao CHEN](https://cse.hkust.edu.hk/~jhc/) <br>
@@ -16,7 +16,7 @@ Submitted to AAAI2024 [paper](https://arxiv.org/abs/2303.13111)
 *	Analyzed the current limitations of volumetric image segmentation: 1) thick slice scanning  2) computationally expensive 
 *	Proposed a **P**ermutable **H**ybrid **Net**work (PHNet) that fuses 2D CNN, 3D CNN, and MLP to enhance the efficiency and efficacy of segmentation by utilizing CNN to learn local features while replacing the heavy self-attention mechanism in Transformers with dimension permutations of feature maps so that voxels within the same axis across all channels are grouped to train using MLP to capture long-range dependencies.
 * Compared with state-of-the-art CNN-based, Transformer-based, and MLP-based methods. Notably, PHNet surpassed the winner of [COVID-19-20 challenge](https://covid-segmentation.grand-challenge.org/evaluation/post-challenge-phase/leaderboard/).
-</div>
+
 
 ### **Improve Medical Image Segmentation models with boundary detection operators**
 *Research Intern in HKUST* <br>
