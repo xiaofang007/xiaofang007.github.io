@@ -15,10 +15,9 @@ My research interests lie in the field of medical image segmentation. My goal is
 
 <div style='display: none'>
 Currently, I am also exploring prompt tuning on Vision Language Models for downstream applications.
-</div>
-
 ## Research Interest
 Computer Vision, Medical Image Analysis
+</div>
 
 ## Education
 ### Hong Kong University of Science and Technology (HKUST) (2020-2024)
